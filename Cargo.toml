@@ -1,6 +1,6 @@
 [package]
 name = "ffi-guy"
-version = "0.0.2"
+version = "0.0.3"
 edition = "2024"
 authors = ["Spypie60 <juliuseao@gmail.com>"]
 description = "An attribute macro to automatically make functions FFI safe."
