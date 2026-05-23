@@ -2,7 +2,7 @@
 name = "ffi-guy"
 version = "0.0.2"
 edition = "2024"
-authors = ["Spypie60"]
+authors = ["Spypie60 <117548673+Spypie60@users.noreply.github.com>"]
 description = "An attribute macro to automatically make functions FFI safe."
 license = "MIT"
 repository = "https://github.com/Spypie60/ffi-guy"
