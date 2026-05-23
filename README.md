@@ -3,7 +3,7 @@ Mostly for lazy people like me, not to much to this.
 
 Usage:
 ```rust
-use ffi-guy::*;
+use ffi_guy::*;
 #[ffi_guy]
 pub fn add(a:i32, b:i32) -> i32 {
   return a+b;
